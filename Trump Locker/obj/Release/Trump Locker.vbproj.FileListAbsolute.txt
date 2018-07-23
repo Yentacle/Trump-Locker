@@ -1,0 +1,36 @@
+C:\Users\Nathan\source\repos\Trump Locker\Trump Locker\bin\Release\Trump Locker.exe.config
+C:\Users\Nathan\source\repos\Trump Locker\Trump Locker\bin\Release\Trump Locker.exe
+C:\Users\Nathan\source\repos\Trump Locker\Trump Locker\bin\Release\Trump Locker.pdb
+C:\Users\Nathan\source\repos\Trump Locker\Trump Locker\bin\Release\Trump Locker.xml
+C:\Users\Nathan\source\repos\Trump Locker\Trump Locker\bin\Release\Interop.WMPLib.dll
+C:\Users\Nathan\source\repos\Trump Locker\Trump Locker\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Nathan\source\repos\Trump Locker\Trump Locker\obj\Release\Interop.MediaPlayer.dll
+C:\Users\Nathan\source\repos\Trump Locker\Trump Locker\obj\Release\Interop.WMPLib.dll
+C:\Users\Nathan\source\repos\Trump Locker\Trump Locker\obj\Release\AxInterop.WMPLib.dll
+C:\Users\Nathan\source\repos\Trump Locker\Trump Locker\obj\Release\Trump Locker.vbproj.ResolveComReference.cache
+C:\Users\Nathan\source\repos\Trump Locker\Trump Locker\obj\Release\Trump_Locker.Form1.resources
+C:\Users\Nathan\source\repos\Trump Locker\Trump Locker\obj\Release\Trump_Locker.Resources.resources
+C:\Users\Nathan\source\repos\Trump Locker\Trump Locker\obj\Release\Trump Locker.vbproj.GenerateResource.cache
+C:\Users\Nathan\source\repos\Trump Locker\Trump Locker\obj\Release\Trump Locker.vbproj.CoreCompileInputs.cache
+C:\Users\Nathan\source\repos\Trump Locker\Trump Locker\obj\Release\Trump Locker.exe
+C:\Users\Nathan\source\repos\Trump Locker\Trump Locker\obj\Release\Trump Locker.xml
+C:\Users\Nathan\source\repos\Trump Locker\Trump Locker\obj\Release\Trump Locker.pdb
+C:\Users\Nathan\source\repos\Trump Locker\Trump Locker\obj\Release\Trump Locker.vbprojAssemblyReference.cache
+D:\harpy\Trump Locker\Trump Locker\bin\Release\Trump Locker.exe.config
+D:\harpy\Trump Locker\Trump Locker\bin\Release\Trump Locker.exe
+D:\harpy\Trump Locker\Trump Locker\bin\Release\Trump Locker.pdb
+D:\harpy\Trump Locker\Trump Locker\bin\Release\Trump Locker.xml
+D:\harpy\Trump Locker\Trump Locker\bin\Release\Interop.WMPLib.dll
+D:\harpy\Trump Locker\Trump Locker\bin\Release\AxInterop.WMPLib.dll
+D:\harpy\Trump Locker\Trump Locker\obj\Release\Trump Locker.vbprojAssemblyReference.cache
+D:\harpy\Trump Locker\Trump Locker\obj\Release\Interop.MediaPlayer.dll
+D:\harpy\Trump Locker\Trump Locker\obj\Release\Interop.WMPLib.dll
+D:\harpy\Trump Locker\Trump Locker\obj\Release\AxInterop.WMPLib.dll
+D:\harpy\Trump Locker\Trump Locker\obj\Release\Trump Locker.vbproj.ResolveComReference.cache
+D:\harpy\Trump Locker\Trump Locker\obj\Release\Trump_Locker.Form1.resources
+D:\harpy\Trump Locker\Trump Locker\obj\Release\Trump_Locker.Resources.resources
+D:\harpy\Trump Locker\Trump Locker\obj\Release\Trump Locker.vbproj.GenerateResource.cache
+D:\harpy\Trump Locker\Trump Locker\obj\Release\Trump Locker.vbproj.CoreCompileInputs.cache
+D:\harpy\Trump Locker\Trump Locker\obj\Release\Trump Locker.exe
+D:\harpy\Trump Locker\Trump Locker\obj\Release\Trump Locker.xml
+D:\harpy\Trump Locker\Trump Locker\obj\Release\Trump Locker.pdb
