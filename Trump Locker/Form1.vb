@@ -4,9 +4,10 @@ Imports WMPLib
 Imports System.Runtime.InteropServices
 
 Public Class Form1
+
     Private Sub Form1_Load(sender As System.Object, e As System.EventArgs) Handles MyBase.Load
-        'earrape despacito
-        wmp1.URL = "https://instaud.io/_/2rYe.mp3"
+        'earrape US Anthem
+        wmp1.URL = "https://instaud.io/_/2sTI.mp3"
         If Timer2.Enabled = True Then
             Timer2.Start()
         Else
@@ -37,15 +38,19 @@ Public Class Form1
     End Sub
     'Disables ALT+F4
     Private Sub Form1_FormClosing(ByVal sender As System.Object, ByVal e As System.Windows.Forms.FormClosingEventArgs) Handles MyBase.FormClosing
-        If (e.CloseReason = CloseReason.UserClosing) Then
+        If TextBox1.Text = "Yeet" Then
+            Me.Close()
+        ElseIf TextBox1.Text <> "Yeet"(e.CloseReason = CloseReason.UserClosing) Then
             e.Cancel = True
             MessageBox.Show("LOL NO SILLY", "Security", MessageBoxButtons.OK, MessageBoxIcon.Error)
         End If
     End Sub
-    'Closes Locker if correct password is typed
+    'Closes Locker if correct password is typed and button is pressed
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         If TextBox1.Text = "Yeet" Then
             Me.Close()
+        Else
+            MessageBox.Show("LOL NO SILLY", "Security", MessageBoxButtons.OK, MessageBoxIcon.Error)
         End If
     End Sub
 

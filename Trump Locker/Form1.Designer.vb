@@ -52,7 +52,7 @@ Partial Class Form1
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(1635, 980)
+        Me.Button1.Location = New System.Drawing.Point(572, 213)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(231, 67)
         Me.Button1.TabIndex = 1
@@ -61,7 +61,7 @@ Partial Class Form1
         '
         'TextBox1
         '
-        Me.TextBox1.Location = New System.Drawing.Point(1697, 921)
+        Me.TextBox1.Location = New System.Drawing.Point(403, 237)
         Me.TextBox1.Name = "TextBox1"
         Me.TextBox1.Size = New System.Drawing.Size(127, 20)
         Me.TextBox1.TabIndex = 2
@@ -70,7 +70,7 @@ Partial Class Form1
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(1632, 924)
+        Me.Label1.Location = New System.Drawing.Point(344, 240)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(53, 13)
         Me.Label1.TabIndex = 3
@@ -79,7 +79,7 @@ Partial Class Form1
         'wmp1
         '
         Me.wmp1.Enabled = True
-        Me.wmp1.Location = New System.Drawing.Point(1400, 997)
+        Me.wmp1.Location = New System.Drawing.Point(347, 410)
         Me.wmp1.Name = "wmp1"
         Me.wmp1.OcxState = CType(resources.GetObject("wmp1.OcxState"), System.Windows.Forms.AxHost.State)
         Me.wmp1.Size = New System.Drawing.Size(198, 50)
@@ -95,7 +95,7 @@ Partial Class Form1
         Me.Label2.BackColor = System.Drawing.Color.Black
         Me.Label2.Font = New System.Drawing.Font("Impact", 72.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label2.ForeColor = System.Drawing.SystemColors.ControlLightLight
-        Me.Label2.Location = New System.Drawing.Point(1654, 744)
+        Me.Label2.Location = New System.Drawing.Point(708, 9)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(153, 117)
         Me.Label2.TabIndex = 6
@@ -107,7 +107,7 @@ Partial Class Form1
         Me.Label3.BackColor = System.Drawing.Color.Black
         Me.Label3.Font = New System.Drawing.Font("Impact", 27.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label3.ForeColor = System.Drawing.SystemColors.ControlLightLight
-        Me.Label3.Location = New System.Drawing.Point(1303, 785)
+        Me.Label3.Location = New System.Drawing.Point(339, 40)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(345, 45)
         Me.Label3.TabIndex = 7
